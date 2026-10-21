@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+.vs/
+.github/modernize/
+assessment-output/
+*.user
+.env
